@@ -5,7 +5,7 @@ const Purpose: React.FC = () => {
         <section className="relative w-full bg-[#2a2724] py-16 sm:py-20 md:py-32 px-4 sm:px-6 overflow-hidden">
             {/* Textura de fundo sutil */}
             <div className="absolute inset-0 bg-gradient-to-b from-[#35312d] via-[#2a2724] to-[#1f1d1b] opacity-60"></div>
-            
+
             <div className="relative z-10 max-w-6xl mx-auto">
                 {/* Header */}
                 <div className="mb-12 sm:mb-16 md:mb-20">

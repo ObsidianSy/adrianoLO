@@ -13,7 +13,7 @@ const RotaMethod: React.FC = () => {
         <section className="relative w-full bg-[#32302d] py-16 sm:py-20 md:py-32 px-4 sm:px-6">
             {/* Textura de fundo */}
             <div className="absolute inset-0 bg-gradient-to-b from-[#3a3834] via-[#32302d] to-[#2a2724] opacity-50"></div>
-            
+
             <div className="relative z-10 max-w-6xl mx-auto">
                 {/* Header */}
                 <div className="mb-12 sm:mb-16 md:mb-20">
@@ -22,7 +22,7 @@ const RotaMethod: React.FC = () => {
                     </h2>
                     <div className="w-20 h-[2px] bg-[#8b7355] mb-6"></div>
                     <p className="text-[#a39382] text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed font-light">
-                        Um processo de leitura completa da vida em 360°: mental, emocional, espiritual e prático. 
+                        Um processo de leitura completa da vida em 360°: mental, emocional, espiritual e prático.
                         Não é um giro para voltar ao mesmo lugar — é uma análise total que revela pontos cegos, desalinhamentos e novas possibilidades de rota.
                     </p>
                 </div>
